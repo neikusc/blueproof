@@ -103,3 +103,5 @@ Rebuild from Xcode to refresh.
 - This is a personal app, not App Store–published
 - API key should never be hardcoded
 - If distributing publicly, use a backend proxy
+
+![BlueProof Screenshot](Screenshot - iPhone Pro Max.png)
