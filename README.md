@@ -104,4 +104,4 @@ Rebuild from Xcode to refresh.
 - API key should never be hardcoded
 - If distributing publicly, use a backend proxy
 
-![BlueProof Screenshot](Screenshot\ -\ iPhone\ Pro\ Max.png)
+<img src="images/screenshot.png" alt="BlueProof Screenshot" width="300">
